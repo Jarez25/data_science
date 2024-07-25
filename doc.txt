@@ -1,0 +1,22 @@
+#plt.scatter(anos, ventas, color='black')  # Gráfico de dispersión
+#plt.fill_between(anos, ventas, color='black', alpha=0.3)  # Gráfico de área
+#plt.barh(anos, ventas, color='black')  # Gráfico de barras horizontales
+
+# Gráfico de pastel (solo tiene sentido si los años se agrupan en categorías)
+# plt.pie(ventas, labels=anos, autopct='%1.1f%%')  # Gráfico de pastel
+
+# Histograma (usualmente se usa para distribuciones de datos)
+# plt.hist(ventas, bins=5, color='black', alpha=0.7)  # Histograma
+
+# Gráfico de cajas (boxplot)
+# plt.boxplot(ventas)  # Gráfico de cajas
+
+# Gráfico de violín
+# plt.violinplot(ventas)  # Gráfico de violín
+
+# Gráfico de serie temporal (similar a gráfico de líneas)
+# plt.plot(anos, ventas, color='black')  # Gráfico de serie temporal
+
+#plt.scatter(anos, ventas, color='black')\
+
+#plt.bar(anos, ventas, color='black')  # Gráfico de barras
