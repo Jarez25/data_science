@@ -1,0 +1,24 @@
+Calculo
+
+Optimización
+
+Calculo de probabilidad 
+
+Definición de la función: Sea y=f(x)y=f(x), es decir, yy es una función de xx.
+
+Definición de la derivada: La derivada de f(x)f(x) con respecto a xx, representada como dydxdxdy​, se define como el límite cuando h→0h→0 de:
+dydx=lim⁡h→0f(x+h)−f(x)h
+dxdy​=h→0lim​hf(x+h)−f(x)​
+
+Esto es lo que se conoce como el cociente incremental, y mide cómo cambia el valor de la función cuando se hace un pequeño cambio en xx (es decir, cuando xx aumenta en hh).
+
+Diferenciabilidad: Si este límite existe, se dice que la función ff es diferenciable en xx. Esto significa que la función tiene una pendiente bien definida en ese punto.
+
+Notaciones comunes: La derivada también se puede escribir como:
+dydx=f′(x)=y′
+dxdy​=f′(x)=y′
+
+Donde:
+
+    f′(x)f′(x) es la notación más común para representar la derivada de f(x)f(x).
+    y′y′ es otra manera más abreviada de escribir la derivada, especialmente cuando ya se ha establecido que y=f(x)y=f(x).

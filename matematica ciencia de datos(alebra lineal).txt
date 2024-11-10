@@ -1,0 +1,61 @@
+ramas de la matemática:
+
+	-- algebra lineal
+	-- analissi matemático(calculo)
+	-- Probabilidad y Estadistica
+
+algebra lineal:
+	
+	-- Matrices y Vetores
+	-- Sistema de ecuacion lineal
+
+
+		columnas
+	A = | a_11  a_12  a_13  ...  a_1p |
+   	    | a_21  a_22  a_23  ...  a_2p | = (aij)
+  	    |  ...   ...   ...  ...   ... |
+  	    | a_n1  a_n2  a_n3  ...  a_np | filas
+
+matriz de datos
+
+| Nombre      | Edad | CI  | Años de Educación |
+|-------------|------|-----|-------------------|
+| Persona 1   | 25   | 110 | 16                |
+| Persona 2   | 30   | 105 | 14                |
+| Persona 3   | 22   | 120 | 18                |
+| Persona 4   | 28   | 98  | 12                |
+
+
+Sistena de ecuaciones lineales
+
+
+a_11 * x_1 + a_12 * x_2 + ... + a_1p * x_p = b_1
+a_21 * x_1 + a_22 * x_2 + ... + a_2p * x_p = b_2
+          ...
+a_n1 * x_1 + a_n2 * x_2 + ... + a_np * x_p = b_n
+
+sistema de ecuaciones lineales  basado en la matriz
+
+25c_1 + 110c_2 + 16c_3 = 3050
+30c_1 + 105c_2 + 14c_3 = 4500
+22c_1 + 120c_2 + 18c_3 = 6300
+28c_1 + 98c_2 + 12c_3 = 3200
+
+Vector de Edad:
+E = [25, 30, 22, 28]
+
+Vector de Cociente Intelectual (CI):
+CI = [110, 105, 120, 98]
+
+Vector de Años de Educación:
+A = [16, 14, 18, 12]
+
+Vector de Resultados:
+R = [3050, 4500, 6300, 3200]
+
+
+canedas de markov
+
+
+--multipliacion de matrices
+
